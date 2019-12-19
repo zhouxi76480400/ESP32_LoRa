@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/zhouxi/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/zhouxi/Library/Arduino15/packages/esp8266/hardware/esp8266/2.6.3/**",
+                "/Users/zhouxi/Library/Arduino15/packages/Heltec-esp32/tools/**",
+                "/Users/zhouxi/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/0.0.4/**",
+                "/Users/zhouxi/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/**"
+            ],
+            "forcedInclude": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
